@@ -1,0 +1,22 @@
+{
+  "name": "jspractise",
+  "version": "1.0.0",
+  "description": "Repo for js programming practise",
+  "main": "first.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/swineethamurthy/JSPractise.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/swineethamurthy/JSPractise/issues"
+  },
+  "homepage": "https://github.com/swineethamurthy/JSPractise#readme",
+  "devDependencies": {
+    "jest": "^26.6.1"
+  }
+}
